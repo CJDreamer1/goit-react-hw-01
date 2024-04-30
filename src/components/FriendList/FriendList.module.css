@@ -1,0 +1,21 @@
+.ulContainer {
+  padding-top: 70px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  width: 650px;
+  margin: 0;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: 0 auto;
+}
+.liContainer {
+  display: flex;
+  justify-content: center;
+  border: 2px solid;
+  border-radius: 8px;
+  padding-top: 10px;
+  width: 100px;
+}
